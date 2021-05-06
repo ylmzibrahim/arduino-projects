@@ -1,0 +1,8 @@
+Arduino Nano - 26 TL
+RC522 RFID Modülü - 16 TL
+2x16 LCD Ekran - 16 TL
+Buzzer - 3 TL
+Potansiyometre - 1 TL
+Kablolama + lehimleme - 5 TL
+
+Toplam = 67 TL
